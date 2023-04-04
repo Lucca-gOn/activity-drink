@@ -1,0 +1,15 @@
+C:\Users\51021784826\Desktop\Bebidas Switch\bin\Debug\net7.0\Bebidas Switch.exe
+C:\Users\51021784826\Desktop\Bebidas Switch\bin\Debug\net7.0\Bebidas Switch.deps.json
+C:\Users\51021784826\Desktop\Bebidas Switch\bin\Debug\net7.0\Bebidas Switch.runtimeconfig.json
+C:\Users\51021784826\Desktop\Bebidas Switch\bin\Debug\net7.0\Bebidas Switch.dll
+C:\Users\51021784826\Desktop\Bebidas Switch\bin\Debug\net7.0\Bebidas Switch.pdb
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.csproj.AssemblyReference.cache
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.dll
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\refint\Bebidas Switch.dll
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.pdb
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\Bebidas Switch.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Bebidas Switch\obj\Debug\net7.0\ref\Bebidas Switch.dll
